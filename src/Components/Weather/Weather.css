@@ -1,0 +1,12 @@
+img {
+    height: 6rem; 
+    margin-top: 3rem; 
+    width: 6rem;
+}
+
+@media (max-width: 800px) {
+    img {
+        height: 60%;
+        width: 20%;
+    }
+}
